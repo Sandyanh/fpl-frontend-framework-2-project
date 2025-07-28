@@ -1,0 +1,14 @@
+.headerClient {
+  background-color: #fff;
+  display: flex;
+  align-items: center;
+  padding: 20px 30px;
+  width: 100%;
+}
+
+.menuClient {
+  flex: 1;
+  min-width: 0;
+  justify-content: center;
+  border-bottom: none;
+}

@@ -16,7 +16,7 @@ function getItem(label, key, icon, children) {
   };
 }
 
-function MainLayout() {
+function AdminLayout() {
   const navigate = useNavigate();
   const items = [
     getItem("Home", "/admin", <HomeOutlined />),
@@ -58,4 +58,4 @@ function MainLayout() {
   );
 }
 
-export default MainLayout;
+export default AdminLayout;

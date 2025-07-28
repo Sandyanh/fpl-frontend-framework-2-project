@@ -1,28 +1,26 @@
 import { Layout } from "antd";
 import { Outlet } from "react-router-dom";
+import HeaderClient from "./HeaderClient";
+import FooterClient from "./FooterClient";
+const { Footer, Content } = Layout;
+import styles from "./index.module.css";
 
-const { Header, Footer, Content } = Layout;
-
-function ClientLayout() {
+const ClientLayout = () => {
   return (
     <Layout style={{ minHeight: "100vh" }}>
-      {/* Header */}
-      <Header
-        style={{ background: "#fff", padding: "0 20px", textAlign: "center" }}
-      >
-        <p>WD20105</p>
-      </Header>
+      <header className={styles.headerClient}>
+        <HeaderClient />
+      </header>
       <Content style={{ margin: "16px", padding: 24, background: "#fff" }}>
-        {/* outlet: đánh dấu phần nội dung page thay đổi*/}
         <Outlet />
       </Content>
       <Footer
         style={{ background: "#fff", padding: "0 20px", textAlign: "center" }}
       >
-        <p>WD20105 - Frontend Framework 2</p>
-        <p>FPoly</p>
+        <FooterClient />
       </Footer>
     </Layout>
   );
-}
+};
+
 export default ClientLayout;
