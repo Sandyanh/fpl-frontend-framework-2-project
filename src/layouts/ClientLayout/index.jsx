@@ -11,12 +11,10 @@ const ClientLayout = () => {
       <header className={styles.headerClient}>
         <HeaderClient />
       </header>
-      <Content style={{ margin: "16px", padding: 24, background: "#fff" }}>
+      <Content>
         <Outlet />
       </Content>
-      <Footer
-        style={{ background: "#fff", padding: "0 20px", textAlign: "center" }}
-      >
+      <Footer style={{ background: "#fff", textAlign: "center" }}>
         <FooterClient />
       </Footer>
     </Layout>

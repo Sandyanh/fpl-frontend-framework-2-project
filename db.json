@@ -1,23 +1,85 @@
 {
-    "products": [
-        {
-          "id": 1,
-          "name": "Product 1",
-          "image": "https://picsum.photos/200",
-          "price": 1000000
-        },
-        {
-          "id": 2,
-          "name": "Product 2",
-          "image": "https://picsum.photos/200",
-          "price": 2000000
-        },
-        {
-          "id": 3,
-          "name": "Product 3",
-          "image": "https://picsum.photos/200",
-          "price": 3000000
-        }
-    ],
-    "users": []
+  "products": [
+    {
+      "id": 1,
+      "name": "THỨC ĂN SMARTHEART GOLD DÀNH CHO CHÓ CON VÀ CHÓ MANG THAI",
+      "image": "https://perfectcompanion.com.vn/uploads/2025/02/24-medium.png.webp",
+      "price": 1000000,
+      "category": "Thức ăn cho chó",
+      "description": "Đây là dòng thức ăn cao cấp dành riêng cho chó con (dưới 12 tháng tuổi) và chó mẹ đang mang thai, được sản xuất từ nguồn nguyên liệu chất lượng cao, đạt tiêu chuẩn Nhật Bản. Sản phẩm cung cấp nhiều dưỡng chất, giúp chó con phát triển toàn diện và hỗ trợ sức khỏe cho chó mẹ đang mang thai."
+    },
+    {
+      "id": 2,
+      "name": "THỨC ĂN DÀNH CHO CHÓ TRƯỞNG THÀNH GIỐNG NHỎ VỊ CỪU VÀ GẠO",
+      "image": "https://perfectcompanion.com.vn/uploads/2025/02/23-large.png.webp",
+      "price": 1000000,
+      "category": "Thức ăn cho chó",
+      "description": "Đây là dòng thức ăn cao cấp dành riêng cho chó trưởng thành (từ 12 tháng tuổi trở lên) giống nhỏ (từ 10kg trở xuống). Sản phẩm được chế biến từ thịt cừu chất lượng cao của New Zealand và hạt gạo được nhập khẩu từ Thái Lan, mang đến hương vị thơm ngon, đảm bảo dinh dưỡng và giảm thiểu nguy cơ dị ứng cho cún cưng."
+    },
+    {
+      "id": 3,
+      "name": "THỨC ĂN LUVCARE DÀNH CHO CHÓ CON GIỐNG NHỎ",
+      "image": "https://perfectcompanion.com.vn/uploads/2025/02/cho-con-giong-nho-medium.png.webp",
+      "price": 1000000,
+      "category": "Thức ăn cho chó",
+      "description": "Đây là dòng thức ăn hạt giúp cải thiện da lông chỉ sau 3 tuần sử dụng dành riêng cho chó con (dưới 12 tháng tuổi) giống nhỏ (dưới 10kg), chó mang thai & cho con bú. Thức ăn ở dạng hạt nhỏ, đặc biệt dễ nhai và dễ tiêu hóa, giúp hỗ trợ nuôi dưỡng da lông, tăng cường hệ miễn dịch tại đường ruột cho chó giống nhỏ."
+    },
+    {
+      "id": 4,
+      "name": "THỨC ĂN LUVCARE DÀNH CHO CHÓ CON GIỐNG VỪA",
+      "image": "https://perfectcompanion.com.vn/uploads/2025/02/cho-con-giong-vua-large.png.webp",
+      "price": 1000000,
+      "category": "Thức ăn cho chó",
+      "description": "Đây là dòng thức ăn hạt giúp cải thiện da lông chỉ sau 3 tuần sử dụng dành riêng cho chó con (dưới 12 tháng tuổi) giống vừa (10-25kg). Thức ăn cung cấp nhiều dưỡng chất thiết yếu như Triple Omega, Canxi, Photpho, các chất chống oxy hóa… giúp nuôi dưỡng da lông và tăng cường sức khỏe toàn diện cho chó giống vừa."
+    },
+    {
+      "id": 5,
+      "name": "THỨC ĂN LUVCARE DÀNH CHO CHÓ TRƯỞNG THÀNH GIỐNG VỪA",
+      "image": "https://perfectcompanion.com.vn/uploads/2024/12/adult-medium-breed-large.png.webp",
+      "price": 1000000,
+      "category": "Thức ăn cho chó",
+      "description": "Đây là dòng thức ăn hạt giúp cải thiện da lông chỉ sau 3 tuần sử dụng dành riêng cho chó trưởng thành (từ 12 tháng tuổi trở lên) giống vừa (10-25kg). Thức ăn cung cấp nhiều dưỡng chất thiết yếu như Triple Omega, Canxi, Photpho, các chất chống oxy hóa…giúp nuôi dưỡng da lông và tăng cường sức khỏe toàn diện cho chó giống vừa."
+    },
+    {
+      "id": 6,
+      "name": "THỨC ĂN SMARTHEART POWER PACK DÀNH CHO CHÓ CON",
+      "image": "https://perfectcompanion.com.vn/uploads/2025/02/smartheart-power-pack-puppy-new-large.png.webp",
+      "price": 1000000,
+      "category": "Thức ăn cho chó",
+      "description": "Đây là dòng thức ăn dành riêng cho những chú chó con (dưới 12 tháng tuổi) thường xuyên vận động và có nhu cầu xây dựng khối cơ bắp chắc khỏe nhờ vào thành phần được tăng cường nguồn protein chất lượng cao."
+    },
+    {
+      "id": 7,
+      "name": "THỨC ĂN SMARTHEART POWER PACK DÀNH CHO CHÓ GIỐNG NHỎ",
+      "image": "https://perfectcompanion.com.vn/uploads/2025/02/powerpack-adult-small-breed-large.png.webp",
+      "price": 1000000,
+      "category": "Thức ăn cho chó",
+      "description": "Đây là dòng thức ăn dành riêng cho những chú chó trưởng thành (từ 12 tháng tuổi trở lên) giống nhỏ (dưới 10kg) thường xuyên vận động và có nhu cầu xây dựng khối cơ bắp chắc khỏe. Sản phẩm cung cấp nguồn protein chất lượng cao và các dinh dưỡng thiết yếu giúp duy trì năng lượng trong suốt cả ngày."
+    },
+    {
+      "id": 8,
+      "name": "THỨC ĂN DÀNH CHO CHÓ MANG THAI, CHO CON BÚ VÀ CHÓ CON",
+      "image": "https://perfectcompanion.com.vn/uploads/2025/03/mother-n-baby-2-large.png.webp",
+      "price": 1000000,
+      "category": "Thức ăn cho chó",
+      "description": "Đây là dòng thức ăn hạt dành cho chó mang thai, cho con bú và chó con dưới 3 tháng tuổi. Sản phẩm đảm bảo cung cấp nguồn dinh dưỡng cân bằng & hoàn chỉnh đạt tiêu chuẩn AAFCO, đáp ứng nhu cầu dinh dưỡng cho chó con và hỗ trợ quá trình mang thai của chó mẹ."
+    },
+    {
+      "id": 9,
+      "name": "THỨC ĂN HẠT SMARTHEART DÀNH CHO CHÓ CON GIỐNG NHỎ (VỊ SỮA)",
+      "image": "https://perfectcompanion.com.vn/uploads/2025/03/sh-small-breed-puppy-1-large.png.webp",
+      "price": 1000000,
+      "category": "Thức ăn cho chó",
+      "description": "Đây là dòng thức ăn hạt dành cho chó con (từ 3 – 12 tháng tuổi) giống nhỏ (dưới 10kg) có hương vị sữa. Sản phẩm đảm bảo cung cấp nguồn dinh dưỡng cân bằng & hoàn chỉnh đạt tiêu chuẩn AAFCO. Thành phần rất giàu DHA, Omega 3 và Choline tốt cho sự phát triển não bộ và sức khỏe tim mạch, ngoài ra, thành phần GOS tương tự sữa chó mẹ rất thân thiện với hệ tiêu hóa."
+    },
+    {
+      "id": 10,
+      "name": "THỨC ĂN DÀNH CHO CHÓ TRƯỞNG THÀNH VỊ GÀ VÀ GAN",
+      "image": "https://perfectcompanion.com.vn/uploads/2025/05/sh-small-chicken-n-liver-large.png.webp",
+      "price": 1000000,
+      "category": "Thức ăn cho chó",
+      "description": "Đây là dòng thức ăn hạt dành cho chó trưởng thành (trên 12 tháng tuổi) giống nhỏ (dưới 10kg) với hương vị mới là vị gà và gan, giúp bữa ăn của cún đa dạng hơn. Sản phẩm đảm bảo cung cấp nguồn dinh dưỡng cân bằng & hoàn chỉnh đạt tiêu chuẩn AAFCO, bổ sung nhiều dưỡng chất thiết yếu giúp bảo vệ sức khỏe toàn diện cho cún cưng."
+    }
+  ],
+  "users": []
 }

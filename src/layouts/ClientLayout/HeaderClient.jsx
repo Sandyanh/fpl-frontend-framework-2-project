@@ -9,41 +9,25 @@ import {
   MailOutlined,
   PhoneOutlined,
 } from "@ant-design/icons";
+import { useNavigate } from "react-router-dom";
 
 const HeaderClient = () => {
+  const navigate = useNavigate();
   const items = [
     {
-      label: "Trang chủ",
+      label: <span onClick={() => navigate("/")}>Trang chủ</span>,
       key: "trang-chu",
       icon: <HomeOutlined />,
     },
     {
-      label: "Giới thiệu",
+      label: <span onClick={() => navigate("/gioi-thieu")}>Giới thiệu</span>,
       key: "gioi-thieu",
       icon: <FileTextOutlined />,
     },
     {
-      label: "Sản phẩm",
+      label: <span onClick={() => navigate("/san-pham")}>Sản phẩm</span>,
       key: "san-pham",
       icon: <BaiduOutlined />,
-      children: [
-        {
-          type: "group",
-          label: "Item 1",
-          children: [
-            { label: "Option 1", key: "setting:1" },
-            { label: "Option 2", key: "setting:2" },
-          ],
-        },
-        {
-          type: "group",
-          label: "Item 2",
-          children: [
-            { label: "Option 3", key: "setting:3" },
-            { label: "Option 4", key: "setting:4" },
-          ],
-        },
-      ],
     },
     {
       label: "Tin tức",

@@ -3,9 +3,11 @@ import ClientLayout from "./layouts/ClientLayout";
 import AdminLayout from "./layouts/AdminLayout";
 
 import ListProduct from "./pages/products/list";
-import Homepage from "./pages/home";
 import CreateProduct from "./pages/products/create";
 import ProductList from "./pages/client/ProductList";
+import ProductDetail from "./pages/client/ProductDetail";
+import NotFound from "./pages/client/NotFound";
+import HomePage from "./pages/client/HomePage";
 
 function App() {
   const routes = useRoutes([
@@ -15,11 +17,15 @@ function App() {
       children: [
         {
           path: "",
-          element: <Homepage />,
+          element: <HomePage />,
         },
         {
           path: "san-pham",
           element: <ProductList />,
+        },
+        {
+          path: "san-pham/:id",
+          element: <ProductDetail />,
         },
       ],
     },
@@ -37,9 +43,13 @@ function App() {
         },
       ],
     },
+    {
+      path: "*",
+      element: <NotFound />,
+    },
   ]);
 
-  return <div style={{ width: "100vw" }}>{routes}</div>;
+  return <>{routes}</>;
 }
 
 export default App;
