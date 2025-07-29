@@ -15,27 +15,27 @@ const HeaderClient = () => {
   const navigate = useNavigate();
   const items = [
     {
-      label: <span onClick={() => navigate("/")}>Trang chủ</span>,
+      label: <span onClick={() => navigate("/")}>Home</span>,
       key: "trang-chu",
       icon: <HomeOutlined />,
     },
     {
-      label: <span onClick={() => navigate("/gioi-thieu")}>Giới thiệu</span>,
+      label: <span onClick={() => navigate("/gioi-thieu")}>About Us</span>,
       key: "gioi-thieu",
       icon: <FileTextOutlined />,
     },
     {
-      label: <span onClick={() => navigate("/san-pham")}>Sản phẩm</span>,
+      label: <span onClick={() => navigate("/san-pham")}>Product</span>,
       key: "san-pham",
       icon: <BaiduOutlined />,
     },
     {
-      label: "Tin tức",
+      label: "News",
       key: "tin-tuc",
       icon: <MailOutlined />,
     },
     {
-      label: "Liên hệ",
+      label: "Contact Us",
       key: "lien-he",
       icon: <PhoneOutlined />,
     },

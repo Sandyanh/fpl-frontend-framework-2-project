@@ -2,83 +2,83 @@
   "products": [
     {
       "id": 1,
-      "name": "THỨC ĂN SMARTHEART GOLD DÀNH CHO CHÓ CON VÀ CHÓ MANG THAI",
+      "name": "SMARTHEART GOLD FOOD FOR PUPPIES AND PREGNANT DOGS",
       "image": "https://perfectcompanion.com.vn/uploads/2025/02/24-medium.png.webp",
       "price": 1000000,
-      "category": "Thức ăn cho chó",
-      "description": "Đây là dòng thức ăn cao cấp dành riêng cho chó con (dưới 12 tháng tuổi) và chó mẹ đang mang thai, được sản xuất từ nguồn nguyên liệu chất lượng cao, đạt tiêu chuẩn Nhật Bản. Sản phẩm cung cấp nhiều dưỡng chất, giúp chó con phát triển toàn diện và hỗ trợ sức khỏe cho chó mẹ đang mang thai."
+      "category": "Dog Food",
+      "description": "This is a premium dog food line specifically designed for puppies (under 12 months old) and pregnant dogs. It is made from high-quality ingredients that meet Japanese standards. The product provides rich nutrients to support overall puppy development and maintain the health of pregnant dogs."
     },
     {
       "id": 2,
-      "name": "THỨC ĂN DÀNH CHO CHÓ TRƯỞNG THÀNH GIỐNG NHỎ VỊ CỪU VÀ GẠO",
+      "name": "DOG FOOD FOR ADULT SMALL BREEDS - LAMB & RICE FLAVOR",
       "image": "https://perfectcompanion.com.vn/uploads/2025/02/23-large.png.webp",
       "price": 1000000,
-      "category": "Thức ăn cho chó",
-      "description": "Đây là dòng thức ăn cao cấp dành riêng cho chó trưởng thành (từ 12 tháng tuổi trở lên) giống nhỏ (từ 10kg trở xuống). Sản phẩm được chế biến từ thịt cừu chất lượng cao của New Zealand và hạt gạo được nhập khẩu từ Thái Lan, mang đến hương vị thơm ngon, đảm bảo dinh dưỡng và giảm thiểu nguy cơ dị ứng cho cún cưng."
+      "category": "Dog Food",
+      "description": "This is a premium dog food line specially formulated for adult dogs (12 months and older) of small breeds (up to 10kg). It is made with high-quality lamb from New Zealand and rice imported from Thailand, offering a delicious taste, balanced nutrition, and reduced risk of allergies."
     },
     {
       "id": 3,
-      "name": "THỨC ĂN LUVCARE DÀNH CHO CHÓ CON GIỐNG NHỎ",
+      "name": "LUVCARE FOOD FOR SMALL BREED PUPPIES",
       "image": "https://perfectcompanion.com.vn/uploads/2025/02/cho-con-giong-nho-medium.png.webp",
       "price": 1000000,
-      "category": "Thức ăn cho chó",
-      "description": "Đây là dòng thức ăn hạt giúp cải thiện da lông chỉ sau 3 tuần sử dụng dành riêng cho chó con (dưới 12 tháng tuổi) giống nhỏ (dưới 10kg), chó mang thai & cho con bú. Thức ăn ở dạng hạt nhỏ, đặc biệt dễ nhai và dễ tiêu hóa, giúp hỗ trợ nuôi dưỡng da lông, tăng cường hệ miễn dịch tại đường ruột cho chó giống nhỏ."
+      "category": "Dog Food",
+      "description": "This kibble line improves coat and skin within 3 weeks of use, designed for small breed puppies (under 12 months, under 10kg), as well as pregnant and nursing dogs. It features small, easy-to-chew kibble that supports coat care, gut health, and immunity in small breed dogs."
     },
     {
       "id": 4,
-      "name": "THỨC ĂN LUVCARE DÀNH CHO CHÓ CON GIỐNG VỪA",
+      "name": "LUVCARE FOOD FOR MEDIUM BREED PUPPIES",
       "image": "https://perfectcompanion.com.vn/uploads/2025/02/cho-con-giong-vua-large.png.webp",
       "price": 1000000,
-      "category": "Thức ăn cho chó",
-      "description": "Đây là dòng thức ăn hạt giúp cải thiện da lông chỉ sau 3 tuần sử dụng dành riêng cho chó con (dưới 12 tháng tuổi) giống vừa (10-25kg). Thức ăn cung cấp nhiều dưỡng chất thiết yếu như Triple Omega, Canxi, Photpho, các chất chống oxy hóa… giúp nuôi dưỡng da lông và tăng cường sức khỏe toàn diện cho chó giống vừa."
+      "category": "Dog Food",
+      "description": "This kibble line improves coat and skin within 3 weeks, designed for medium breed puppies (under 12 months, 10–25kg). It provides essential nutrients such as Triple Omega, Calcium, Phosphorus, and antioxidants to nourish the skin and support overall health."
     },
     {
       "id": 5,
-      "name": "THỨC ĂN LUVCARE DÀNH CHO CHÓ TRƯỞNG THÀNH GIỐNG VỪA",
+      "name": "LUVCARE FOOD FOR MEDIUM BREED ADULT DOGS",
       "image": "https://perfectcompanion.com.vn/uploads/2024/12/adult-medium-breed-large.png.webp",
       "price": 1000000,
-      "category": "Thức ăn cho chó",
-      "description": "Đây là dòng thức ăn hạt giúp cải thiện da lông chỉ sau 3 tuần sử dụng dành riêng cho chó trưởng thành (từ 12 tháng tuổi trở lên) giống vừa (10-25kg). Thức ăn cung cấp nhiều dưỡng chất thiết yếu như Triple Omega, Canxi, Photpho, các chất chống oxy hóa…giúp nuôi dưỡng da lông và tăng cường sức khỏe toàn diện cho chó giống vừa."
+      "category": "Dog Food",
+      "description": "This kibble line improves coat and skin within 3 weeks, designed for adult dogs (12 months and older) of medium breeds (10–25kg). It offers essential nutrients like Triple Omega, Calcium, Phosphorus, and antioxidants for healthy skin and comprehensive health."
     },
     {
       "id": 6,
-      "name": "THỨC ĂN SMARTHEART POWER PACK DÀNH CHO CHÓ CON",
+      "name": "SMARTHEART POWER PACK FOOD FOR PUPPIES",
       "image": "https://perfectcompanion.com.vn/uploads/2025/02/smartheart-power-pack-puppy-new-large.png.webp",
       "price": 1000000,
-      "category": "Thức ăn cho chó",
-      "description": "Đây là dòng thức ăn dành riêng cho những chú chó con (dưới 12 tháng tuổi) thường xuyên vận động và có nhu cầu xây dựng khối cơ bắp chắc khỏe nhờ vào thành phần được tăng cường nguồn protein chất lượng cao."
+      "category": "Dog Food",
+      "description": "This dog food is specially designed for puppies (under 12 months) who are active and require strong muscle development. It is enriched with high-quality protein for healthy muscle growth."
     },
     {
       "id": 7,
-      "name": "THỨC ĂN SMARTHEART POWER PACK DÀNH CHO CHÓ GIỐNG NHỎ",
+      "name": "SMARTHEART POWER PACK FOOD FOR SMALL BREED ADULT DOGS",
       "image": "https://perfectcompanion.com.vn/uploads/2025/02/powerpack-adult-small-breed-large.png.webp",
       "price": 1000000,
-      "category": "Thức ăn cho chó",
-      "description": "Đây là dòng thức ăn dành riêng cho những chú chó trưởng thành (từ 12 tháng tuổi trở lên) giống nhỏ (dưới 10kg) thường xuyên vận động và có nhu cầu xây dựng khối cơ bắp chắc khỏe. Sản phẩm cung cấp nguồn protein chất lượng cao và các dinh dưỡng thiết yếu giúp duy trì năng lượng trong suốt cả ngày."
+      "category": "Dog Food",
+      "description": "This dog food is specially designed for small breed adult dogs (12 months and older, under 10kg) who are active and require strong muscles. It provides high-quality protein and essential nutrients to sustain energy throughout the day."
     },
     {
       "id": 8,
-      "name": "THỨC ĂN DÀNH CHO CHÓ MANG THAI, CHO CON BÚ VÀ CHÓ CON",
+      "name": "DOG FOOD FOR PREGNANT, NURSING DOGS AND YOUNG PUPPIES",
       "image": "https://perfectcompanion.com.vn/uploads/2025/03/mother-n-baby-2-large.png.webp",
       "price": 1000000,
-      "category": "Thức ăn cho chó",
-      "description": "Đây là dòng thức ăn hạt dành cho chó mang thai, cho con bú và chó con dưới 3 tháng tuổi. Sản phẩm đảm bảo cung cấp nguồn dinh dưỡng cân bằng & hoàn chỉnh đạt tiêu chuẩn AAFCO, đáp ứng nhu cầu dinh dưỡng cho chó con và hỗ trợ quá trình mang thai của chó mẹ."
+      "category": "Dog Food",
+      "description": "This kibble is designed for pregnant and nursing dogs, as well as puppies under 3 months. It provides complete and balanced nutrition that meets AAFCO standards, supporting healthy growth for puppies and a safe pregnancy for mothers."
     },
     {
       "id": 9,
-      "name": "THỨC ĂN HẠT SMARTHEART DÀNH CHO CHÓ CON GIỐNG NHỎ (VỊ SỮA)",
+      "name": "SMARTHEART KIBBLE FOR SMALL BREED PUPPIES (MILK FLAVOR)",
       "image": "https://perfectcompanion.com.vn/uploads/2025/03/sh-small-breed-puppy-1-large.png.webp",
       "price": 1000000,
-      "category": "Thức ăn cho chó",
-      "description": "Đây là dòng thức ăn hạt dành cho chó con (từ 3 – 12 tháng tuổi) giống nhỏ (dưới 10kg) có hương vị sữa. Sản phẩm đảm bảo cung cấp nguồn dinh dưỡng cân bằng & hoàn chỉnh đạt tiêu chuẩn AAFCO. Thành phần rất giàu DHA, Omega 3 và Choline tốt cho sự phát triển não bộ và sức khỏe tim mạch, ngoài ra, thành phần GOS tương tự sữa chó mẹ rất thân thiện với hệ tiêu hóa."
+      "category": "Dog Food",
+      "description": "This kibble is designed for small breed puppies (3–12 months, under 10kg) with milk flavor. It meets AAFCO nutritional standards, rich in DHA, Omega 3, and Choline for brain and heart health. It also contains GOS, similar to mother’s milk, supporting digestion."
     },
     {
       "id": 10,
-      "name": "THỨC ĂN DÀNH CHO CHÓ TRƯỞNG THÀNH VỊ GÀ VÀ GAN",
+      "name": "DOG FOOD FOR ADULT DOGS – CHICKEN & LIVER FLAVOR",
       "image": "https://perfectcompanion.com.vn/uploads/2025/05/sh-small-chicken-n-liver-large.png.webp",
       "price": 1000000,
-      "category": "Thức ăn cho chó",
-      "description": "Đây là dòng thức ăn hạt dành cho chó trưởng thành (trên 12 tháng tuổi) giống nhỏ (dưới 10kg) với hương vị mới là vị gà và gan, giúp bữa ăn của cún đa dạng hơn. Sản phẩm đảm bảo cung cấp nguồn dinh dưỡng cân bằng & hoàn chỉnh đạt tiêu chuẩn AAFCO, bổ sung nhiều dưỡng chất thiết yếu giúp bảo vệ sức khỏe toàn diện cho cún cưng."
+      "category": "Dog Food",
+      "description": "This kibble is designed for small breed adult dogs (over 12 months, under 10kg) with a new flavor: chicken and liver. It provides complete and balanced nutrition according to AAFCO standards and includes essential nutrients for overall health protection."
     }
   ],
   "users": []

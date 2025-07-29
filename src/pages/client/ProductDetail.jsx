@@ -49,7 +49,7 @@ const ProductDetail = () => {
             <Typography.Title level={3}>{product.name}</Typography.Title>
             <Typography.Paragraph>{product.description}</Typography.Paragraph>
             <Button type="primary" icon={<ShoppingCartOutlined />} danger>
-              Thêm vào giỏ hàng
+              Add To Cart
             </Button>
           </Col>
         </Row>
