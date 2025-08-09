@@ -22,7 +22,7 @@ function AdminLayout() {
     getItem("Home", "/admin", <HomeOutlined />),
     getItem("Products", "products", <ProductOutlined />, [
       getItem("List", "/admin/products", <UnorderedListOutlined />),
-      getItem("Create", "/admin/products/create", <PlusOutlined />),
+      getItem("Add", "/admin/products/add", <PlusOutlined />),
     ]),
   ];
   return (

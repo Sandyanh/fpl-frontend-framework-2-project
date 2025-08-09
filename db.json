@@ -73,13 +73,37 @@
       "description": "This kibble is designed for small breed puppies (3–12 months, under 10kg) with milk flavor. It meets AAFCO nutritional standards, rich in DHA, Omega 3, and Choline for brain and heart health. It also contains GOS, similar to mother’s milk, supporting digestion."
     },
     {
-      "id": 10,
-      "name": "DOG FOOD FOR ADULT DOGS – CHICKEN & LIVER FLAVOR",
-      "image": "https://perfectcompanion.com.vn/uploads/2025/05/sh-small-chicken-n-liver-large.png.webp",
-      "price": 1000000,
-      "category": "Dog Food",
-      "description": "This kibble is designed for small breed adult dogs (over 12 months, under 10kg) with a new flavor: chicken and liver. It provides complete and balanced nutrition according to AAFCO standards and includes essential nutrients for overall health protection."
+      "name": "Smartheart killer food for adult small breeds dogs (Baked beef flavor)",
+      "image": "https://res.cloudinary.com/dbfiy3hgq/image/upload/v1754671884/small-breed-roast-beef-no-kg-1-large.png_cqlyqf.webp",
+      "price": 130000,
+      "category": "Dog food",
+      "description": "This is a line of dry food for adult dogs (over 12 months old) and small dogs (under 10kg) with grilled beef flavor. The product ensures to provide a balanced and complete source of nutrition that meets AAFCO standards, helps enhance brain and nervous system function, and protects cardiovascular health. The product has a special structure that helps reduce plaque on teeth.",
+      "id": 10
+    },
+    {
+      "name": "Classic pets knee food for adult small breed dogs beef flavor",
+      "image": "https://res.cloudinary.com/dbfiy3hgq/image/upload/v1754676290/classic-pets-small-breeds-dog-food-beef-flavour-new-large.png_vzufrx.webp",
+      "price": 100000,
+      "category": "Dog food",
+      "description": "This is a line of dry food for adult dogs (12 months and older) of small breeds (under 10kg) with a delicious, attractive beef flavor. The product helps provide essential nutrients, supports dogs to maintain overall health and optimize energy for daily activities.",
+      "id": 11
     }
   ],
-  "users": []
+  "users": [
+    {
+      "email": "phebeo@gmail.com",
+      "password": "$2a$10$2ynZN1kCyB8em0Hrr/f2leiKtNksNSVfE3/K394HuHaBFlh/RVEMO",
+      "id": 1
+    },
+    {
+      "email": "abc@gmail.com",
+      "password": "$2a$10$10tsoUUungrPfMnOFysI3ed5uaQozXsKxpBj6crAzkmubpKd3Q9xK",
+      "id": 2
+    },
+    {
+      "email": "bibeo@gmail.com",
+      "password": "$2a$10$rLAxcjK9AN0BgdWWXJaaoeUkHtaPSmNPXRa7wkfN3rdsQeMQFndRm",
+      "id": 3
+    }
+  ]
 }

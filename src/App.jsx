@@ -1,13 +1,15 @@
 import { useRoutes } from "react-router";
 import ClientLayout from "./layouts/ClientLayout";
 import AdminLayout from "./layouts/AdminLayout";
-
-import ListProduct from "./pages/products/list";
-import CreateProduct from "./pages/products/create";
 import ProductList from "./pages/client/ProductList";
 import ProductDetail from "./pages/client/ProductDetail";
 import NotFound from "./pages/client/NotFound";
 import HomePage from "./pages/client/HomePage";
+import ListProduct from "./pages/admin/ProductManager.jsx/ListProduct";
+import AddProduct from "./pages/admin/ProductManager.jsx/AddProduct";
+import EditProduct from "./pages/admin/ProductManager.jsx/EditProduct";
+import Register from "./pages/admin/auth/Register";
+import Login from "./pages/admin/auth/Login";
 
 function App() {
   const routes = useRoutes([
@@ -27,6 +29,14 @@ function App() {
           path: "san-pham/:id",
           element: <ProductDetail />,
         },
+        {
+          path: "register",
+          element: <Register />,
+        },
+        {
+          path: "login",
+          element: <Login />,
+        },
       ],
     },
     {
@@ -38,8 +48,12 @@ function App() {
           element: <ListProduct />,
         },
         {
-          path: "products/create",
-          element: <CreateProduct />,
+          path: "products/add",
+          element: <AddProduct />,
+        },
+        {
+          path: "products/edit/:id",
+          element: <EditProduct />,
         },
       ],
     },
